@@ -32,6 +32,7 @@ https://react-bootstrap.github.io
 https://reactrouter.com/
 https://www.javatpoint.com/reactjs-tutorial
 https://mui.com
+https://blog.logrocket.com/modern-api-data-fetching-methods-react/
 https://beta.reactjs.org/reference/react/useEffect#fetching-data-with-effects
 
 
