@@ -1,0 +1,48 @@
+FrontEnd (React)
+================
+npm i
+
+
+BackEnd (Laravel)
+=================
+0., PHP8.0.2 ajánlott, de 8 a minimális verzió Laravelhez!
+
+1., Composer függőségek telepítése
+composer install
+// Ha hibát ad, akkor:
+// hiba: "Your lock file does not contain a compatible set of packages. Please run composer update."
+composer install --ignore-platform-reqs
+vagy
+composer update --ignore-platform-reqs
+
+2., NPM függőségek telepítése
+npm install
+
+3., .env fájl másolatának létrehozása (ha nem létezik .env fájl)
+cp .env.example .env
+
+4., Generate an app encryption key
+php artisan key:generate
+
+5., Üres adatbázis létrehozása
+
+6., Az .env fájléban meg kell adni az adatbázis-hozzáféréshez szükséges információkat:
+DB_CONNECTION=mysql
+DB_HOST=127.0.0.1
+DB_PORT=3306
+DB_DATABASE=laravel_sanctum
+DB_USERNAME=root
+DB_PASSWORD=
+
+7., Adatbázis migrálása
+php artisan migrate
+
+8., Opcionálisan adatok seedelése
+php artisan db:seed
+
+
+
+
+
+"require": {
+        "php": "^8.0.2",
