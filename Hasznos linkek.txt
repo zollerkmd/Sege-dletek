@@ -32,6 +32,7 @@ https://react-bootstrap.github.io
 https://reactrouter.com/
 https://www.javatpoint.com/reactjs-tutorial
 https://mui.com
+https://beta.reactjs.org/reference/react/useEffect#fetching-data-with-effects
 
 
 Laravel
