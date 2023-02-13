@@ -34,6 +34,7 @@ https://www.javatpoint.com/reactjs-tutorial
 https://mui.com
 https://blog.logrocket.com/modern-api-data-fetching-methods-react/
 https://beta.reactjs.org/reference/react/useEffect#fetching-data-with-effects
+https://github.com/laszlovarga78/cyberdyne-system-hooks/blob/main/src/App.js
 
 
 Laravel
