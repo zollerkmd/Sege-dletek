@@ -42,7 +42,9 @@ https://www.tutorialspoint.com/laravel/laravel_overview.htm
 https://laravel.io
 
 
-
+ChatGPT
+-------
+https://chat.openai.com/chat
 
 
 
