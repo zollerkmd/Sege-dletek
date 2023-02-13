@@ -1,0 +1,49 @@
+Szoftverfejlesztő és -tesztelő szakmai záróvizsga online tanórák (2022.04.20.) anyagai
+--------------------------------------------------------------------------------------
+https://www.itmp.hu/klub/szolgaltatasok/szoftverfejleszto-es-tesztelo-szakmai-zarovizsga-online-tanorak-20220420-anyagai
+
+
+C# Tutorial.hu => A Helló Világ! Helló C# otthona
+-------------------------------------------------
+https://csharptutorial.hu
+https://csharptutorial.hu/konyv/
+
+
+C# Console Application Examples (50+ C# Examples)
+-------------------------------------------------
+https://www.csharp-console-examples.com/csharp-console/c-console-examples/
+
+
+GitHub (zollerkmd)
+------------------
+https://www.csharp-console-examples.com/csharp-console/c-console-examples/
+
+
+W3 Schools
+---------
+https://www.w3schools.com
+
+
+React
+-----
+https://hu.reactjs.org
+https://create-react-app.dev
+https://react-bootstrap.github.io
+https://reactrouter.com/
+https://www.javatpoint.com/reactjs-tutorial
+https://mui.com
+
+
+Laravel
+-------
+https://laravel.com
+https://laravel-news.com/category/tutorials
+https://www.tutorialspoint.com/laravel/laravel_overview.htm
+https://laravel.io
+
+
+
+
+
+
+
